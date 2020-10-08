@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Good Day! I am Gi-Yeong KIM who is interested in Java Programing from South Korea.
+
 <!--
 **Gi-Yeong/Gi-Yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
