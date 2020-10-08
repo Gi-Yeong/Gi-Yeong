@@ -4,7 +4,7 @@ Good Day! I am Gi-Yeong KIM who is interested in Java Programing from South Kore
 
   <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Gi-Yeong)](https://hits.seeyoufarm.com) 
 	
   </div>
 <!--
