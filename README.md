@@ -7,8 +7,6 @@
 
 Good Day! I am Gi-Yeong KIM who is interested in Java / Kotlin Programing from South Korea.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gi-Yeong&theme=gruvbox)<br>
-
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gi-Yeong)
