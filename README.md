@@ -1,9 +1,4 @@
 ### Hi there 👋
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Gi-Yeong)](https://hits.seeyoufarm.com) 
-	
-  </div>
 
 Good Day! I am Gi-Yeong KIM who is interested in Java / Kotlin Programing from South Korea.
 
