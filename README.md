@@ -1,6 +1,7 @@
-### Hi there 👋
+### 안녕하세요
 
-Good Day! I am Gi-Yeong KIM who is interested in Java / Kotlin Programing from South Korea.
+개발자 하다가 결혼 후 요양원에서 사회복지사로 근무 하면서
+요양원 운영 및 취미로 필요한 요양원 시스템 만들고 있어요.
 
 
 <!--
